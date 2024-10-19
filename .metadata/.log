@@ -16,3 +16,66 @@ Command-line arguments:  -os win32 -ws win32 -arch x86_64
 
 !ENTRY org.eclipse.cdt.core 1 0 2024-10-12 15:06:14.276
 !MESSAGE Indexed '00_Getting_Started' (22 sources, 82 headers) in 9.87 sec: 4,789 declarations; 22,866 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.0072%)
+!SESSION 2024-10-19 14:48:56.112 -----------------------------------------------
+eclipse.buildId=Version 1.15.0
+java.version=17.0.8.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2024-10-19 14:49:14.324
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2024-10-19 14:49:14.335
+!MESSAGE Log4j2 initialized with config file C:\Users\Sandip\Documents\GIT\FreeRTOS_STM32F411\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2024-10-19 14:49:29.413
+!MESSAGE Started RMI Server, listening on port 41338
+!SESSION 2024-10-19 21:21:16.469 -----------------------------------------------
+eclipse.buildId=Version 1.15.0
+java.version=17.0.8.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2024-10-19 21:21:45.337
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2024-10-19 21:21:45.347
+!MESSAGE Log4j2 initialized with config file C:\Users\Sandip\Documents\GIT\FreeRTOS_STM32F411\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2024-10-19 21:21:55.364
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-10-19 21:37:31.573
+!MESSAGE Indexed '01_Create_Task' (34 sources, 147 headers) in 11.9 sec: 15,709 declarations; 72,798 references; 1 unresolved inclusions; 202 syntax errors; 241 unresolved names (0.27%)
+!SESSION 2024-10-19 22:11:50.796 -----------------------------------------------
+eclipse.buildId=Version 1.15.0
+java.version=17.0.8.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2024-10-19 22:12:12.913
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2024-10-19 22:12:12.915
+!MESSAGE Log4j2 initialized with config file C:\Users\Sandip\Documents\GIT\FreeRTOS_STM32F411\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2024-10-19 22:12:21.514
+!MESSAGE Started RMI Server, listening on port 41337
+!SESSION 2024-10-19 22:13:49.306 -----------------------------------------------
+eclipse.buildId=Version 1.15.0
+java.version=17.0.8.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2024-10-19 22:14:00.097
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2024-10-19 22:14:00.097
+!MESSAGE Log4j2 initialized with config file C:\Users\Sandip\Documents\GIT\FreeRTOS_STM32F411\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2024-10-19 22:14:09.536
+!MESSAGE Started RMI Server, listening on port 41337
