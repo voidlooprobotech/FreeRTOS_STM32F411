@@ -28,8 +28,8 @@ int main(void)
 
 
   xTaskCreate(vRedLedTask, "RED_LED", 128, NULL, 1, NULL);
-  xTaskCreate(vGreenLedTask, "GREEN_LED", 128, NULL, 1, NULL);
-  xTaskCreate(vBlueLedTask, "BLUE_LED", 128, NULL, 1, NULL);
+  xTaskCreate(vGreenLedTask, "RED_LED", 128, NULL, 1, NULL);
+  xTaskCreate(vBlueLedTask, "RED_LED", 128, NULL, 1, NULL);
   vTaskStartScheduler();
 
   while (1)
