@@ -1,0 +1,10 @@
+22:05:40 **** Incremental Build of configuration Debug for project 03_Create_MultiTask ****
+make -j8 all 
+arm-none-eabi-size  03_Create_MultiTask.elf 
+   text	   data	    bss	    dec	    hex	filename
+  23056	    108	  20812	  43976	   abc8	03_Create_MultiTask.elf
+Finished building: default.size.stdout
+ 
+
+22:05:40 Build Finished. 0 errors, 0 warnings. (took 596ms)
+
