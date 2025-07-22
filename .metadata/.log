@@ -478,3 +478,39 @@ org.eclipse.swt.SWTException: Widget is disposed
 
 !ENTRY com.st.stm32cube.ide.mcu.debug.launch 2 0 2025-06-29 18:59:08.437
 !MESSAGE Won't launch debug session since we failed to locate the binary.
+!SESSION 2025-07-20 04:40:52.444 -----------------------------------------------
+eclipse.buildId=Version 1.15.0
+java.version=17.0.8.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data E:\Desk_64GB\GIT\FreeRTOS_STM32F411
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2025-07-20 04:41:34.642
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2025-07-20 04:41:34.667
+!MESSAGE Log4j2 initialized with config file E:\Desk_64GB\GIT\FreeRTOS_STM32F411\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2025-07-20 04:41:53.198
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2025-07-20 04:43:07.003
+!MESSAGE Indexed '05_Task_Priority_1' (34 sources, 149 headers) in 6.52 sec: 15,858 declarations; 70,700 references; 7 unresolved inclusions; 1,175 syntax errors; 1,403 unresolved names (1.6%)
+!SESSION 2025-07-22 22:59:05.251 -----------------------------------------------
+eclipse.buildId=Version 1.15.0
+java.version=17.0.8.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2025-07-22 22:59:49.269
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2025-07-22 22:59:49.292
+!MESSAGE Log4j2 initialized with config file E:\Desk_64GB\GIT\FreeRTOS_STM32F411\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2025-07-22 23:00:19.195
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.core.jobs 2 2 2025-07-22 23:00:43.224
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: org.eclipse.ui.internal.Workbench$39
