@@ -1,13 +1,15 @@
 
 #include "main.h"
 #include <stdio.h>
+#include "main.h"
+#include "usart.h"
+#include "gpio.h"
 #include "FreeRTOS.h"
 #include "task.h"
 
 
 void SystemClock_Config(void);
-static void MX_GPIO_Init(void);
-static void MX_USART2_UART_Init(void);
+
 
 void vLedTask(void *pvParameters);
 
@@ -24,7 +26,7 @@ int main(void)
   SystemClock_Config();
 
   MX_GPIO_Init();
-  MX_USART2_UART_Init();
+  //MX_USART2_UART_Init();
 
   xTaskCreate(vLedTask, "RED_LED", 128, (void*)redLed, 1, NULL);
   xTaskCreate(vLedTask, "GREEN_LED", 128, (void*)greenLed, 1, NULL);
