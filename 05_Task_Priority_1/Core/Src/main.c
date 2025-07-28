@@ -29,7 +29,7 @@ int main(void)
 
   SystemClock_Config();
 
-  MX_GPIO_Init();i
+  MX_GPIO_Init();
   MX_USART2_UART_Init();
 
 
